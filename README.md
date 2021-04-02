@@ -4,7 +4,7 @@ sudo apt install npm
 ```
 ## Install vue.js
 ```
-sudo npm install -g @vue/cli
+sudo npm install vue
 ```
 
 ## Project setup
